@@ -273,7 +273,7 @@ vbt.save_animation("bbands.gif", bbands.wrapper.index, plot, bbands, delta=90, s
 
 Visit the [website](https://vectorbt.dev/) for more examples, documentation, and guides.
 
-## Example apps
+## Example apps -Small Test
 
 ### [Candlestick Patterns](https://github.com/polakowo/vectorbt/blob/master/apps/candlestick-patterns/)
 
