@@ -101,7 +101,7 @@ pip install -U "vectorbt[full,rust]"
 
 ## Examples
 
-### Invest $100 in Bitcoin since 2014
+### Invest $100 in Bitcoin since 2014 --Small Test
 
 ```python
 import vectorbt as vbt
